@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "server": "tsnd --respawn ./src/index.ts"
+    "server": "tsnd --respawn ./src/index.ts",
+    "test": "jest"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.50.0",
