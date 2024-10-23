@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "server": "tsnd --respawn ./src/index.ts",
+    "server": "tsnd --respawn",  
     "test": "jest"
   },
   "devDependencies": {
@@ -18,3 +18,5 @@
     "@types/jest": "^29.5.11"
   }
 }
+
+
