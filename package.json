@@ -1,9 +1,10 @@
 {
   "scripts": {
-    "server": "tsnd --respawn",  
+    "server": "tsnd --respawn",
     "test": "jest"
   },
   "devDependencies": {
+    "@types/readline-sync": "^1.4.8",
     "@typescript-eslint/eslint-plugin": "^5.50.0",
     "eslint": "^8.0.1",
     "eslint-config-standard-with-typescript": "^36.0.0",
@@ -18,5 +19,3 @@
     "@types/jest": "^29.5.11"
   }
 }
-
-

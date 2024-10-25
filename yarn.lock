@@ -752,6 +752,11 @@
   dependencies:
     undici-types "~5.26.4"
 
+"@types/readline-sync@^1.4.8":
+  version "1.4.8"
+  resolved "https://registry.npmjs.org/@types/readline-sync/-/readline-sync-1.4.8.tgz"
+  integrity sha512-BL7xOf0yKLA6baAX6MMOnYkoflUyj/c7y3pqMRfU0va7XlwHAOTOIo4x55P/qLfMsuaYdJJKubToLqRVmRtRZA==
+
 "@types/semver@^7.3.12":
   version "7.5.0"
   resolved "https://registry.npmjs.org/@types/semver/-/semver-7.5.0.tgz"
